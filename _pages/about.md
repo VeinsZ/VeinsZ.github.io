@@ -8,43 +8,84 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+王正，副教授，博士生导师，江苏省双创博士人才，IEEE会员，IEEE通信协会会员，IEEE信息论协会会员。2009年本科毕业于南京航空航天大学，2010年硕士毕业于英国曼彻斯特大学，2015年博士毕业于英国伦敦帝国理工学院，导师Prof. Cong Ling(凌聪)。2015年4月至2016年6月在帝国理工学院从事通信与信号处理博士后研究工作，2016年6月至2017年8月在华为技术有限公司担任高级研发工程师，项目经理，从事5G关键技术研究与标准推动。2017年9月至2021年4月任职于南京航空航天大学电子信息工程学院，担任讲师与副教授。自2021年5月起副教授任职于东南大学信息科学与工程学院。
 
-A data-driven personal website
+研究方向
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+大规模MIMO无线通信系统信号处理(上行检测&下行预编码,基于Cell free, RIS，UAV等实际场景);智能高维信号处理(2022年度华为“火花奖”)；机器学习与数理统计。欢迎有志于攻读硕士学位的优秀同学积极与我联系。本人指导的多位研究生在国际权威期刊和会议发表了多篇论文，获得国家奖学金、优秀学业奖学金、优秀毕业论文、优秀毕业生等多项奖励与荣誉，并指导学生荣获互联网+大学生创新创业大赛二等奖，大学生物联网技术与应用三创大赛二等奖等荣誉。
+(/images/figure1.png)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+代表性科研论文
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+[J1].Z. Wang* and C. Ling, “Lattice Gaussian sampling by Markov chain Monte Carlo: Bounded distance decoding and trapdoor sampling,” IEEE Transactions on Information Theory, vol. 65, no. 6, pp. 3630-3645, June, 2019.
 
-Site-wide configuration
+[J2].Z. Wang* and C. Ling, “On the geometric ergodicity of Metropolis-Hastings algorithms for lattice Gaussian sampling,” IEEE Transactions on Information Theory, vol. 64, no. 2, pp. 738-751, Feb, 2018.
+
+[J3].Z. Wang*, R. M. Gower, Y. Xia, L. He and Y. Huang, “Randomized Iterative Methods for Low-Complexity Large-Scale MIMO Detection,” IEEE Transactions on Signal Processing, vol. 70, pp. 2934-2949, 2022.
+
+[J4].Z. Wang*, R. M. Gower, C. Zhang, S. Lyu, Y. Xia and Y. Huang, “A Statistical Linear Precoding Scheme Based On Random Iterative Method For Massive MIMO Systems,” IEEE Transactions on Wireless Communications, 2022.
+
+[J5].Z. Wang*, L. Liu and C. Ling, “Sliced Lattice Gaussian Sampling: Convergence Enhancement and Decoding Optimization,” IEEE Transactions on Communications, 2021.
+
+[J6].Z. Wang*, S. Lyu, Y. Xia and Q. Wu, “Expectation Propagation-based Sampling Decoding: Enhancement and Optimization,” IEEE Transactions on Signal Processing, 2021.
+
+[J7].Z. Wang*, Y. Xia, J. Li and Q. Wu, “A New Method of Integer Parameter Estimation in Linear Models with Applications to GNSS High Precision Positioning,” IEEE Transactions on Signal Processing, 2021.
+
+[J8].Z. Wang*, Y. Huang and S. Lyu, “Lattice-Reduction-Aided Gibbs Algorithm for Lattice Gaussian Sampling: Convergence Enhancement and Decoding Optimization,” IEEE Transactions on Signal Processing, vol. 67, no. 16, pp. 4342-4356, Aug, 2019.
+
+[J9].Z. Wang*, “Markov chain Monte Carlo Methods for Lattice Gaussian Sampling: Convergence Analysis and Enhancement,” IEEE Transactions on Communications, vol. 67, no. 16, pp. 6711-6724, Oct, 2019.
+
+[J10]. Z. Wang*, S. Lyu, L. Liu and Y. Xia, “Learning-Aided Markov Chain Monte Carlo Scheme for Spectrum Sensing in Cognitive Radio, ” IEEE Transactions on Vehicular Technology, vol. 71, no. 10, pp. 11301-11305, Oct. 2022.
+
+[J11]. Z. Wang*, S. Liu and C. Ling, “Decoding by sampling part II: Derandomization and soft-output decoding,” IEEE Transactions on Communications, vol. 61, no. 11, pp. 4630-4639, Nov, 2013.
+
+主持科研项目
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+[1] 国家自然科学基金重点项目子课题
 
-Create content & metadata
+[2] 国家青年自然科学基金
+
+[3] 江苏省青年自然科学基金
+
+[4] 江苏省双创博士
+
+[5] 东南大学无线通信国家重点实验室开放课题基金
+
+[6] 电磁频谱工信部重点实验室开放课题基金
+
+[7] 西电综合业务网理论及关键技术国家重点实验室开放课题基金
+
+[8] 电子信息系统复杂电磁环境效应国家重点实验室课题项目A
+
+[9] 电子信息系统复杂电磁环境效应国家重点实验室课题项目B
+
+[10] 中国航天科工集团八五一一研究所项目
+
+[11] 中国电子科技集团三十六所项目A
+
+[12] 中国电子科技集团三十六所项目B
+
+
+
+指教课程
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+《数字图像处理》春季学期，本科课程
 
-**Markdown generator**
+《信息通信网络概论》秋季学期，本科课程
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+《大规模MIMO信号检测理论与方法》秋季学期，研究生课程
 
-How to edit your site's GitHub repository
+《机器学习与人工智能导论》2019-2021，本科课程
+
+《卫星通信》2018-2021，本科课程
+
+
+授权专利
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+[1] 一种基于无人机的异构频谱网络三维频谱感知方法，ZL201810845457.0
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[2] 基于北斗扫描的天地一体频谱大数据平台，ZL201810889103.6
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[3] 基于双层网络编码的高能效协作中继网络传输方法， ZL201811112326.8
+
+[4] 无线携能双向中继网络中面向用户公平性的容量最大化传输方法，ZL 201810946015.5
