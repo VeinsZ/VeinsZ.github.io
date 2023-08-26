@@ -29,27 +29,27 @@ Research Interest
 
 Representative papers
 ======
-[J1].**Z. Wang** *, and C. Ling, [“Lattice Gaussian sampling by Markov chain Monte Carlo: Bounded distance decoding and trapdoor sampling,”](https://ieeexplore.ieee.org/abstract/document/8653323) **IEEE Transactions on Information Theory*, vol. 65, no. 6, pp. 3630-3645, June, 2019.
+[J1].**Z. Wang** *, and C. Ling, [“Lattice Gaussian sampling by Markov chain Monte Carlo: Bounded distance decoding and trapdoor sampling,”](https://ieeexplore.ieee.org/abstract/document/8653323) _IEEE Transactions on Information Theory_, vol. 65, no. 6, pp. 3630-3645, June, 2019.
 
-[J2].**Z. Wang** *, and C. Ling, [“On the geometric ergodicity of Metropolis-Hastings algorithms for lattice Gaussian sampling,”](https://ieeexplore.ieee.org/document/8013823) **IEEE Transactions on Information Theory*, vol. 64, no. 2, pp. 738-751, Feb, 2018.
+[J2].**Z. Wang** *, and C. Ling, [“On the geometric ergodicity of Metropolis-Hastings algorithms for lattice Gaussian sampling,”](https://ieeexplore.ieee.org/document/8013823) _IEEE Transactions on Information Theory_, vol. 64, no. 2, pp. 738-751, Feb, 2018.
 
-[J3].**Z. Wang** *, R. M. Gower, Y. Xia, L. He and Y. Huang, [“Randomized Iterative Methods for Low-Complexity Large-Scale MIMO Detection,”](https://ieeexplore.ieee.org/document/9790338) **IEEE Transactions on Signal Processing*, vol. 70, pp. 2934-2949, 2022.
+[J3].**Z. Wang** *, R. M. Gower, Y. Xia, L. He and Y. Huang, [“Randomized Iterative Methods for Low-Complexity Large-Scale MIMO Detection,”](https://ieeexplore.ieee.org/document/9790338) _IEEE Transactions on Signal Processing_, vol. 70, pp. 2934-2949, 2022.
 
-[J4].**Z. Wang** *, R. M. Gower, C. Zhang, S. Lyu, Y. Xia and Y. Huang, [“A Statistical Linear Precoding Scheme Based On Random Iterative Method For Massive MIMO Systems,”](https://ieeexplore.ieee.org/document/9801549) **IEEE Transactions on Wireless Communications*, 2022.
+[J4].**Z. Wang** *, R. M. Gower, C. Zhang, S. Lyu, Y. Xia and Y. Huang, [“A Statistical Linear Precoding Scheme Based On Random Iterative Method For Massive MIMO Systems,”](https://ieeexplore.ieee.org/document/9801549) _IEEE Transactions on Wireless Communications_, 2022.
 
-[J5].**Z. Wang** *, L. Liu and C. Ling, [“Sliced Lattice Gaussian Sampling: Convergence Enhancement and Decoding Optimization,”](https://ieeexplore.ieee.org/document/9249415) **IEEE Transactions on Communications*, 2021.
+[J5].**Z. Wang** *, L. Liu and C. Ling, [“Sliced Lattice Gaussian Sampling: Convergence Enhancement and Decoding Optimization,”](https://ieeexplore.ieee.org/document/9249415) _IEEE Transactions on Communications_, 2021.
 
-[J6].**Z. Wang** *, S. Lyu, Y. Xia and Q. Wu, [“Expectation Propagation-based Sampling Decoding: Enhancement and Optimization,”](https://ieeexplore.ieee.org/document/9271911) **IEEE Transactions on Signal Processing*, 2021.
+[J6].**Z. Wang** *, S. Lyu, Y. Xia and Q. Wu, [“Expectation Propagation-based Sampling Decoding: Enhancement and Optimization,”](https://ieeexplore.ieee.org/document/9271911) _IEEE Transactions on Signal Processing_, 2021.
 
-[J7].**Z. Wang** *, Y. Xia, J. Li and Q. Wu, [“A New Method of Integer Parameter Estimation in Linear Models with Applications to GNSS High Precision Positioning,”](https://ieeexplore.ieee.org/document/9502510) **IEEE Transactions on Signal Processing*, 2021.
+[J7].**Z. Wang** *, Y. Xia, J. Li and Q. Wu, [“A New Method of Integer Parameter Estimation in Linear Models with Applications to GNSS High Precision Positioning,”](https://ieeexplore.ieee.org/document/9502510) _IEEE Transactions on Signal Processing_, 2021.
 
-[J8].**Z. Wang** *, Y. Huang and S. Lyu, [“Lattice-Reduction-Aided Gibbs Algorithm for Lattice Gaussian Sampling: Convergence Enhancement and Decoding Optimization,”](https://ieeexplore.ieee.org/document/8768220) **IEEE Transactions on Signal Processing*, vol. 67, no. 16, pp. 4342-4356, Aug, 2019.
+[J8].**Z. Wang** *, Y. Huang and S. Lyu, [“Lattice-Reduction-Aided Gibbs Algorithm for Lattice Gaussian Sampling: Convergence Enhancement and Decoding Optimization,”](https://ieeexplore.ieee.org/document/8768220) _IEEE Transactions on Signal Processing_, vol. 67, no. 16, pp. 4342-4356, Aug, 2019.
 
-[J9].**Z. Wang** *, [“Markov chain Monte Carlo Methods for Lattice Gaussian Sampling: Convergence Analysis and Enhancement,”](https://ieeexplore.ieee.org/document/8753603) **IEEE Transactions on Communications*, vol. 67, no. 16, pp. 6711-6724, Oct, 2019.
+[J9].**Z. Wang** *, [“Markov chain Monte Carlo Methods for Lattice Gaussian Sampling: Convergence Analysis and Enhancement,”](https://ieeexplore.ieee.org/document/8753603) _IEEE Transactions on Communications_, vol. 67, no. 16, pp. 6711-6724, Oct, 2019.
 
-[J10]. **Z. Wang** *, S. Lyu, L. Liu and Y. Xia, [“Learning-Aided Markov Chain Monte Carlo Scheme for Spectrum Sensing in Cognitive Radio,”](https://ieeexplore.ieee.org/document/9798886) **IEEE Transactions on Vehicular Technology*, vol. 71, no. 10, pp. 11301-11305, Oct. 2022.
+[J10]. **Z. Wang** *, S. Lyu, L. Liu and Y. Xia, [“Learning-Aided Markov Chain Monte Carlo Scheme for Spectrum Sensing in Cognitive Radio,”](https://ieeexplore.ieee.org/document/9798886) _IEEE Transactions on Vehicular Technology_, vol. 71, no. 10, pp. 11301-11305, Oct. 2022.
 
-[J11]. **Z. Wang** *, S. Liu and C. Ling, [“Decoding by sampling part II: Derandomization and soft-output decoding,”](https://ieeexplore.ieee.org/document/6648351) **IEEE Transactions on Communications*, vol. 61, no. 11, pp. 4630-4639, Nov, 2013.
+[J11]. **Z. Wang** *, S. Liu and C. Ling, [“Decoding by sampling part II: Derandomization and soft-output decoding,”](https://ieeexplore.ieee.org/document/6648351) _IEEE Transactions on Communications_, vol. 61, no. 11, pp. 4630-4639, Nov, 2013.
 
 Hosting scientific research projects
 ------
