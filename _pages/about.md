@@ -20,7 +20,11 @@ redirect_from:
 
 自2021年5月起副教授任职于[东南大学信息科学与工程学院](https://radio.seu.edu.cn/)。
 
-  长期从事无线通信系统研究，在大规模MIMO无线通信信号处理，智能高维信号处理，机器学习与数理统计等领域开展了一系列开拓性研究，取得了多项基础性，创新性研究成果。近年来累计发表高水平期刊、会议论文四十余篇，其中以第一作者兼通信作者身份在IEEE Transaction on Information Theory, IEEE Transaction on Signal Processing, IEEE Transaction on Communications，IEEE Transaction on Wireless Communications等顶尖期刊上发表论文10+。负责主持包含国家自然科学青年基金，江苏省自然科学青年基金，江苏省双创人才等十多项基金项目，参与负责欧盟Physical Layer Wireless Security物理层安全项目，并获得欧盟委员会资助。长期担任IEEE Trans. Information Theory, IEEE Transaction on Signal Processing，IEEE Trans. Communications等国际顶级期刊的审稿人，并且是领域内Globecom, ICC, WCNC, WCSP, ICCC等知名学术会议的TPC成员。
+  长期从事无线通信系统研究，在大规模MIMO无线通信信号处理，智能高维信号处理，机器学习与数理统计等领域开展了一系列开拓性研究，取得了多项基础性，创新性研究成果。
+  
+  近年来累计发表高水平期刊、会议论文四十余篇，其中以第一作者兼通信作者身份在IEEE Transaction on Information Theory, IEEE Transaction on Signal Processing, IEEE Transaction on Communications，IEEE Transaction on Wireless Communications等顶尖期刊上发表论文10+。
+  
+  负责主持包含国家自然科学青年基金，江苏省自然科学青年基金，江苏省双创人才等十多项基金项目，参与负责欧盟Physical Layer Wireless Security物理层安全项目，并获得欧盟委员会资助。长期担任IEEE Trans. Information Theory, IEEE Transaction on Signal Processing，IEEE Trans. Communications等国际顶级期刊的审稿人，并且是领域内Globecom, ICC, WCNC, WCSP, ICCC等知名学术会议的TPC成员。
 
 Research Interest
 ======
