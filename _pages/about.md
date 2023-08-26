@@ -10,7 +10,7 @@ redirect_from:
 
 江苏省双创博士人才，IEEE会员，IEEE通信协会会员，IEEE信息论协会会员。
 
-2009年本科毕业于南京航空航天大学，2010年硕士毕业于英国曼彻斯特大学，2015年博士毕业于英国伦敦帝国理工学院，导师Prof. Cong Ling(凌聪)。
+2009年本科毕业于[南京航空航天大学](https://www.nuaa.edu.cn/)，2010年硕士毕业于[英国曼彻斯特大学](https://www.manchester.ac.uk/)，2015年博士毕业于[英国伦敦帝国理工学院](https://www.imperial.ac.uk/)，导师[Prof. Cong Ling(凌聪)](https://www.imperial.ac.uk/people/c.ling)。
 
 2015年4月至2016年6月在帝国理工学院从事通信与信号处理博士后研究工作，
 
@@ -18,7 +18,7 @@ redirect_from:
 
 2017年9月至2021年4月任职于南京航空航天大学电子信息工程学院，担任讲师与副教授。
 
-自2021年5月起副教授任职于东南大学信息科学与工程学院。
+自2021年5月起副教授任职于[东南大学信息科学与工程学院](https://radio.seu.edu.cn/)。
 
 Research Interest
 ======
