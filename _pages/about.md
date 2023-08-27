@@ -10,6 +10,9 @@ redirect_from:
 
 IEEE高级会员(Senior Member)，江苏省双创博士，自2021年5月起副教授(博导)任职于[东南大学信息科学与工程学院](https://radio.seu.edu.cn/)。
 
+Education & Professional Experiences
+======
+
 2009年本科(Bachelor)毕业于[南京航空航天大学](https://www.nuaa.edu.cn/) (Nanjing University of Aeronautics and Astronautics, China); 2010年硕士(Master)毕业于[英国曼彻斯特大学](https://www.manchester.ac.uk/) (University of Manchester, UK)，导师[Prof. Patrick Gaydecki](https://personalpages.manchester.ac.uk/staff/patrick.gaydecki/); 2015年博士(Ph.D.)毕业于[英国伦敦帝国理工学院](https://www.imperial.ac.uk/) (Imperial College London, UK)，导师[Prof. Cong Ling(凌聪)](https://www.imperial.ac.uk/people/c.ling)。2015年4月至2016年6月在帝国理工学院从事通信与信号处理博士后研究工作，2016年6月至2017年8月在华为技术有限公司担任高级研发工程师，项目经理，从事5G关键技术研究与标准推动，2017年9月至2021年4月任职于南京航空航天大学电子信息工程学院，担任讲师与副教授。
 
 Research Interest
